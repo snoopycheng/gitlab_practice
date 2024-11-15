@@ -50,6 +50,23 @@ vs code -> Run C/C++ file -> g++ build and debug active file
 
     git push origin main
 
+## gitlab -> github
+
+gitlab website:
+
+settings -> repository -> mirroring repositories
+
+example:
+
+    Git repository URL: https://github.com/snoopycheng/your_repository_name.git
+
+    password: tokens
+
+    go to your github website -> settings -> developer settings -> personal access tokens -> tokens (classic) -> generate new tokens (classic)
+    
+
+-> synchronize
+
 ## Reference
 
 https://code.visualstudio.com/docs/cpp/config-linux

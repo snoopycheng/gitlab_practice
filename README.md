@@ -54,4 +54,6 @@ vs code -> Run C/C++ file -> g++ build and debug active file
 
 https://code.visualstudio.com/docs/cpp/config-linux
 
+https://docs.gitlab.com/ee/topics/git/commit.html
+
 https://github.com/easy-ebpf

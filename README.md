@@ -36,7 +36,19 @@ vs code -> Run C/C++ file -> g++ build and debug active file
 
     git push -uf origin main
 
+## Push new
 
+(bash)
+
+    git status
+
+    git add newfile
+
+    git status
+
+    git commit -m "add README"
+
+    git push origin main
 
 ## Reference
 

@@ -34,7 +34,7 @@ vs code -> Run C/C++ file -> g++ build and debug active file
 
     (go to gitlab website setting -> repository -> protected branches -> unprotected)
 
-    git push -uf origin main
+    git push origin main
 
 ## Push new
 
@@ -66,6 +66,13 @@ example:
     
 
 -> synchronize
+
+## clone
+
+(bash)
+
+    git clone http://...
+    
 
 ## Reference
 
